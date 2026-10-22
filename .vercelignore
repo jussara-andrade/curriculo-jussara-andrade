@@ -1,0 +1,4 @@
+# Arquivos do projeto que não precisam ser publicados no site
+prompt.md
+gerar_pdfs.py
+.gitignore
