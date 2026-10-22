@@ -2,3 +2,11 @@
 prompt.md
 gerar_pdfs.py
 .gitignore
+
+# Arquivos pessoais de origem (a Vercel usa este arquivo no lugar do .gitignore)
+Jussara_Andrade_CV_Contabilidade_Controladoria.docx
+Foto.png
+
+# Configuração local e tokens da Vercel (nunca publicar)
+.vercel
+.env*

@@ -8,3 +8,6 @@ Foto.png
 # Sistema
 Thumbs.db
 desktop.ini
+
+.vercel
+.env*
